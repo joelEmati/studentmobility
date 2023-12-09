@@ -1,2 +1,2 @@
 # ime2023javaspringboottraining
-To Manage students homework
+To Manage students homeworks
